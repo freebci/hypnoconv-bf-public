@@ -85,7 +85,7 @@ integration, or other commercial licensing discussions, please contact:
 
 - Beijing Brain Computer Interface Commercial Co., Ltd.
 - Website: <https://www.bbci.net/en>
-- Email: <mailto:contact@bbci.net>
+- Email: <contact@bbci.net>
 
 Pretrained checkpoints are not included in this package and are not released at
 this stage.
