@@ -75,5 +75,17 @@ It is not intended as a full commercial deployment package.
 
 ## License
 
-The current intended release posture is a Business Source License style
-restriction. See `LICENSE`.
+This repository is released under the GNU Affero General Public License v3.0
+(AGPL-3.0). See `LICENSE`.
+
+## Commercial Licensing
+
+For commercial deployment, commercial productization, hosted commercial service
+integration, or other commercial licensing discussions, please contact:
+
+- Beijing Brain Computer Interface Commercial Co., Ltd.
+- Website: <https://www.bbci.net/en>
+- Email: <mailto:contact@bbci.net>
+
+Pretrained checkpoints are not included in this package and are not released at
+this stage.

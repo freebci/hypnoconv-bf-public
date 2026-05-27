@@ -19,10 +19,19 @@ This public companion package is a minimal subset of the internal project.
 - device-specific deployment artifacts
 - unrelated experiment lines
 
-## License Intention
+## License Position
 
-The current intended release posture is a Business Source License style
-restriction rather than a permissive open-source license.
+This repository is released under AGPL-3.0 for open research and source
+availability.
+
+## Commercial Use Position
+
+Commercial deployment and related commercial licensing discussions should be
+directed to:
+
+- Beijing Brain Computer Interface Commercial Co., Ltd.
+- <https://www.bbci.net/en>
+- <mailto:contact@bbci.net>
 
 ## Rationale
 
